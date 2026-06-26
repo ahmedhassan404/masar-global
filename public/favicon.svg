@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Masar Global mark</title>
+  <desc id="desc">Purple, blue, cyan, and orange route mark for Masar Global.</desc>
+  <rect width="64" height="64" rx="16" fill="#82378C"/>
+  <path d="M16 42C22 24 34 18 50 18" fill="none" stroke="#04B2D9" stroke-width="7" stroke-linecap="round"/>
+  <path d="M16 42C26 38 36 38 48 46" fill="none" stroke="#F27127" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="16" cy="42" r="5" fill="#F2F2F2"/>
+  <circle cx="50" cy="18" r="5" fill="#048ABF"/>
+</svg>

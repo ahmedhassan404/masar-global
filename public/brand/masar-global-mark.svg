@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 220 64" role="img" aria-labelledby="title desc">
+  <title id="title">Masar Global logo</title>
+  <desc id="desc">Masar Global route mark with wordmark.</desc>
+  <rect x="1" y="1" width="62" height="62" rx="18" fill="#82378C"/>
+  <path d="M16 42C22 24 34 18 50 18" fill="none" stroke="#04B2D9" stroke-width="7" stroke-linecap="round"/>
+  <path d="M16 42C26 38 36 38 48 46" fill="none" stroke="#F27127" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="16" cy="42" r="5" fill="#F2F2F2"/>
+  <circle cx="50" cy="18" r="5" fill="#048ABF"/>
+  <text x="78" y="29" fill="#1E2633" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">Masar</text>
+  <text x="78" y="50" fill="#82378C" font-family="Inter, Arial, sans-serif" font-size="21" font-weight="800">Global</text>
+</svg>
